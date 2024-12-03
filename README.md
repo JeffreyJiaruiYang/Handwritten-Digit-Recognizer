@@ -1,5 +1,7 @@
 # Handwritten-Digit-Recognizer
 
+![image](https://github.com/user-attachments/assets/ad4186ff-4c30-49e6-b9b1-7230d3a29700)
+
 This project is a Python-based application for recognizing handwritten digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset. It also includes a GUI for drawing and testing digit recognition.
 
 ## Features
@@ -19,4 +21,4 @@ The project uses the following libraries:
 Install dependencies via:
 ```bash
 pip install torch torchvision Pillow opencv-python numpy
-![image](https://github.com/user-attachments/assets/ad4186ff-4c30-49e6-b9b1-7230d3a29700)
+
