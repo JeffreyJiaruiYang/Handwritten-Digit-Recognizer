@@ -19,3 +19,4 @@ The project uses the following libraries:
 Install dependencies via:
 ```bash
 pip install torch torchvision Pillow opencv-python numpy
+![image](https://github.com/user-attachments/assets/ad4186ff-4c30-49e6-b9b1-7230d3a29700)
