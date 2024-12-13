@@ -1,6 +1,7 @@
 ## CS 4804 mini Project
 
-![image](https://github.com/user-attachments/assets/bf791c3f-bcbf-4e8b-87f4-b589a2fe8846)
+![73b0b08a558878e98826dc88c62d451](https://github.com/user-attachments/assets/a9c8c46f-d0e7-43ff-82da-9abfd94ea56d)
+
 
 This project is a Python-based application for recognizing handwritten digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset. It also includes a GUI for drawing and testing digit recognition.
 
