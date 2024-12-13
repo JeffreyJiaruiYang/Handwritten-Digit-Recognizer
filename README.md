@@ -6,7 +6,6 @@ This project is a Python-based application for recognizing handwritten digits us
 
 ## Run
 Use python ui.py
-
 ## Features
 - Train a CNN model on the MNIST dataset.
 - Save and load the trained model for reuse.
